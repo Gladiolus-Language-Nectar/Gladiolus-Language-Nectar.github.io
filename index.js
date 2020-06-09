@@ -4,7 +4,7 @@ window.onload = () => {
 
 function spr() {
 	// body...
-	document.getElementById('container').innerHTML = "<br><h1>Running Test 3<h1><br>"
+	document.getElementById('container').innerHTML = "<br><h1><p>This page is no more available. Click <a href='http://www.languagenectar.com'>here</a> to go to the new page.</p><h1><br>";
 }
 
 function navBarToggle() {
